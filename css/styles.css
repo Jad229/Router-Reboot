@@ -1,0 +1,87 @@
+/* Color Palette
+    #FF8FE5
+    #76E3FF
+    #191A19
+    #171717
+    #343A40    */
+body{
+  background-color: #191A19;
+  color: #76E3FF;
+}
+
+.white-section{
+  background-color: #C9CCD5;
+}
+
+
+/* Containers */
+.container-fluid{
+  padding: 1% 15%;
+}
+/*Navigation Bar*/
+
+.navbar-brand{
+  font-family: "Press Start 2P";
+  font-size: 2rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+  color: #76E3FF;
+  font-family: "Righteous";
+}
+
+/* Title section */
+.title-row{
+  margin: 7% 0;
+}
+.title-heading{
+  font-family: 'Press Start 2P';
+  text-align: left;
+  padding: 15% 7% ;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.title-intro{
+  color: #FF8FE5;
+  padding: 1% 7%;
+  font-family: "Righteous";
+  text-align: left;
+}
+
+.title-image{
+  margin: 2% 2%;
+  border-radius: 25px;
+}
+
+/* PLayer Selection */
+
+h2{
+  color: #343A40;
+  text-align: center;
+  font-family: "Press Start 2P";
+  padding: 5%;
+}
+
+h3{
+  color: #343A40;
+  font-family: "Press Start 2P";
+  padding: 0 2% 2%;
+}
+
+.banner-image{
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+
+.carousel-inner{
+  padding-left: 20%;
+  margin-bottom: 15%;
+}
+
+.player-image{
+  width:55%;
+  border-radius: 100%;
+}
